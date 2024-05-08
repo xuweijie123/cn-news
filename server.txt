@@ -1,4 +1,3 @@
 2024-05-08
 Mirror List
 http://109.111.243.206:17579/cn/
-http://ak087243.dynamic.ppp.asahi-net.or.jp:2400/cn/
