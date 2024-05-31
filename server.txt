@@ -1,5 +1,5 @@
 2024-05-31
 Mirror List
 http://109.111.243.206:17579/cn/
-http://p2341213-ipngn7302souka.saitama.ocn.ne.jp:20358/cn/
 http://78.142.193.246:33304/cn/
+http://103.151.141.69:5052/cn/
